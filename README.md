@@ -30,6 +30,10 @@ By prajwal zingare
 
 
 
+
+
+
+
 [ <img src= "https://img.shields.io/badge/Go LiVE-1DA1F?style=for-the-badge&logo=&logoColor=white" />](https://shopifyclone-tailwindcss-prajwal.netlify.app/) 
 
 ---
@@ -49,5 +53,7 @@ By prajwal zingare
   - It takes me near about 12 hours to complete the project.But i really enjoyed😎.
   - hoosssh really worth it❤️.
 
+## Short intro video
 
+https://user-images.githubusercontent.com/74585612/185836617-75fd16b2-75c4-4b31-a2d8-5e00d96b4106.mp4
 
