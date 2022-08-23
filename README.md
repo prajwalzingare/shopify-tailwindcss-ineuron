@@ -49,7 +49,7 @@ By prajwal zingare
   - I learned how to add video in webpage.
   - this whole project is mobile responsive so during making this project i learned lot about mobile responsivness.
   
-  ## Time required for finishing the peoject
+  ## Time required for finishing the project
   - It takes me near about 12 hours to complete the project.But i really enjoyed😎.
   - hoosssh really worth it❤️.
 
